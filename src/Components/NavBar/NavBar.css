@@ -1,0 +1,19 @@
+header {
+    background: linear-gradient(to bottom right, rgb(60, 60, 163), pink);
+}
+
+li {
+    cursor: pointer;
+    padding: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: #2c2c2cec;
+}
+.navBarra {
+    justify-content: flex-end;
+}
+.card-img-top{
+    width: 15rem;
+}
