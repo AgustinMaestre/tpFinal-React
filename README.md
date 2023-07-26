@@ -9,7 +9,7 @@ Este es un proyecto básico de un ecommerce del curso de react. Aqui podemos ver
 
 ## Funcionalidades
 - Ver una lista de productos disponibles
-- Agregar productos al carrito de compras
+- Agregar y eliminar productos al carrito de compras
 - Ver el carrito de compras
 - Realizar una orden de compra
 

@@ -38,7 +38,7 @@ export const CarritoProvider = ({children}) => {
         const cartActualizado = carrito.filter( prod => prod.item.id !== id)
         setCarrito(cartActualizado)
         setCantidadTotal( prev => prev - prodEliminado.cantidad)
-        setTotal( prev => prev - (prodEliminado.item.precio * prodEliminado.candidad))
+        setTotal( prev => prev - (prodEliminado.item.precio * prodEliminado.cantidad))
     }
 
     const clear = () => {

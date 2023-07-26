@@ -1,0 +1,9 @@
+.cont {
+    background: linear-gradient(to bottom right, rgb(60, 60, 163), pink);
+    padding: 15rem;
+}
+
+.cart_prod {
+    background: linear-gradient(to bottom right, rgb(60, 60, 163), pink);
+    padding: 8rem;
+}
