@@ -1,4 +1,3 @@
-import "./App.css"
 import NavBar from "./Components/NavBar/NavBar"
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { CarritoProvider } from "./context/CarritoContext"
